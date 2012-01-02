@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundColor</key>
+	<string>212024</string>
+	<key>CharColor</key>
+	<string>b26763</string>
+	<key>ClassColor</key>
+	<string>80be59</string>
+	<key>CommentColor</key>
+	<string>5aa264</string>
+	<key>FunctionColor</key>
+	<string>6dce8b</string>
+	<key>KeywordColor</key>
+	<string>6dce8b</string>
+	<key>NumberColor</key>
+	<string>d3c6b6</string>
+	<key>PreprocessorColor</key>
+	<string>ce7f53</string>
+	<key>SelectionColor</key>
+	<string>00a3bd</string>
+	<key>StringColor</key>
+	<string>b26763</string>
+	<key>TextColor</key>
+	<string>d3c6b6</string>
+	<key>VariableColor</key>
+	<string>d3c6b6</string>
+</dict>
+</plist>
