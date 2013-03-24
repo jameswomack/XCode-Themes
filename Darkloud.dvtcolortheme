@@ -47,11 +47,11 @@
 		<key>xcode.syntax.character</key>
 		<string>0.469 0.426 0.77 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.105882 0.580392 0.172549 1</string>
+		<string>0.287385 0.700763 0.358907 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.255 0.714 0.27 1</string>
+		<string>0.287385 0.700763 0.358907 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.255 0.714 0.27 1</string>
+		<string>0.287385 0.700763 0.358907 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.512 0.754 0.343 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -85,58 +85,58 @@
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.778 0.488 0.284 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.352941 0.552941 0.635294 1</string>
+		<string>0.292585 0.482141 0.572685 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.164407 0.656412 0.963802 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Inconsolata - 13.0</string>
+		<string>Inconsolata - 14.0</string>
 	</dict>
 </dict>
 </plist>

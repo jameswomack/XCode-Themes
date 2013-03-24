@@ -1,6 +1,6 @@
 #CodeRunner custom theme instructions
 
-##I've requsted Krill move the themes to the library folder but until that happens you'll need to go into the app bundle
+##I've requested Krill move the themes to the library folder but until that happens you'll need to go into the app bundle
 
 
 * Right-click CodeRunner in the dock and select Options->Show In Finder
